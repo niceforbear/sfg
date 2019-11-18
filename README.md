@@ -1,0 +1,2 @@
+# sfg
+Script framework generator.
